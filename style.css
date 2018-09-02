@@ -1,0 +1,10 @@
+.container{
+	margin-top: 20px;
+}
+.col-md-2, .col-md-3, .col-md-4, .offset-md-3, .offset-md-6{
+	background-color: #C71E32;
+	color: white;
+	border: 1px solid white;
+	width: 200px;
+	height: 80px;
+}
